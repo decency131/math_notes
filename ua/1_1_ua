@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ua">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Числа</h1>
+    <hr>
+    <pre>
+    <h2> Математика - велика наука про відносини між об'єктами, про які нічого невідомо, окрім деяких властивостей, що їх описують. </h2>
+    </pre>
+  </body>
+</html>
