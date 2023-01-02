@@ -6,7 +6,7 @@ Math_notes — конспект з усієї математики з деяки
 
 Math_notes — конспект по всей математике с некоторыми примерами кода.
 
-Math_notes — kompendium całej matematyki  matematyki z kilkoma przykładami kodu 
+Math_notes — kompendium całej matematyki z kilkoma przykładami kodu 
 
 📜Languages:
 <br>-english
